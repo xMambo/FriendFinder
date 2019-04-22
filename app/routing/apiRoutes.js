@@ -50,5 +50,8 @@ module.exports = function (app) {
 
         //Save the user's data to the database. make sure this is after the check
         friends.push(userData);
+
+        //return a JSON with the user's bestMatch. this will be used by the html in the next page
+        res.json(bestMatch);
     });
 }

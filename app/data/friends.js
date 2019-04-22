@@ -1,7 +1,7 @@
 var friends = [
     {
-        name: "Charlie Day",
-        photo: "",
+        name: "Charlie",
+        photo: "http://www.media4.hw-static.com/wp-content/uploads/60008708-1600x1067.jpg",
         scores: [
             "5",
             "2",
@@ -17,7 +17,7 @@ var friends = [
     },
     {
         name: "Mac",
-        photo: "",
+        photo: "https://img.huffingtonpost.com/asset/5bb4dd8d24000031005633a6.jpeg?ops=scalefit_720_noupscale",
         scores: [
             "4",
             "5",
@@ -33,7 +33,7 @@ var friends = [
     },
     {
         name: "Dennis",
-        photo: "",
+        photo: "https://vignette.wikia.nocookie.net/itsalwayssunny/images/0/07/Square-Dennis-Cheesy.jpg/revision/latest/scale-to-width-down/180?cb=20110925015916",
         scores: [
             "4",
             "5",
